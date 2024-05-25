@@ -1,6 +1,6 @@
 {
   "name": "@swenkerorg/inventore-molestias",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -9,7 +9,7 @@
   "dependencies": {
     "@dramaorg/quae-dolore-nostrum": "^2.1.20",
     "@juigorg/nisi-molestiae-ut": "^2.1.20",
-    "@kollorg/nihil-veniam-deserunt": "^1.2.20",
+    "@kollorg/nihil-veniam-deserunt": "^1.2.21",
     "@swenkerorg/atque-dolorem-accusantium": "^1.1.21",
     "@swenkerorg/delectus-delectus-tempora": "^1.4.18",
     "@swenkerorg/dolor-soluta-quas": "^2.1.20",
@@ -41,7 +41,7 @@
     "@swenkerorg/voluptate-facere-illo": "^4.1.18",
     "@swenkerorg/voluptate-voluptas-ad": "^2.1.20",
     "@zitterorg/eum-veritatis-placeat": "^2.1.20",
-    "@zitterorg/illum-perferendis-consectetur": "^2.2.19",
+    "@zitterorg/illum-perferendis-consectetur": "^2.2.20",
     "analsorhost-simple-bs": "^1.0.1",
     "corcojs-qrcode": "^1.0.0",
     "corcojs-qrcode-logo": "^1.0.0",
